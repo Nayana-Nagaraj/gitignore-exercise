@@ -1,1 +1,10 @@
 node_modules/
+# Ignore all files starting with leter Z
+z.*
+
+# Ignore all files starting with leter Z
+*.env
+
+# Ignore this directory at the root artifacts
+/artifacts
+
