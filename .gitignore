@@ -1,2 +1,4 @@
 # Ignore all files starting with leter Z
-z*,.env,/artifacts/.
+z*
+.env
+/artifacts/
